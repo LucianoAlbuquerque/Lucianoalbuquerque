@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+👨‍🎓 I'm a business Student at Universidade Federal Fluminense - UFF
+
+🌎 I speak English and Portuguese;
+
+📚 I’m currently learning JavaScript, Python and TypeScript;
+
+💼 I want to work with full stack developer
+
+##
+
 <div align="center">
   <a href="https://github.com/LucianoAlbuquerque">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LucianoAlbuquerque&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
