@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-👨‍🎓 I'm a business Student at Universidade Federal Fluminense - UFF
+👨‍🎓 I'm a Student at Computer
 
 🌎 I speak English and Portuguese;
 
-📚 I’m currently learning JavaScript, Python and TypeScript;
+📚 I’m currently learning Python, SQL and CloudComputer
 
-💼 I want to work with full stack developer
+💼 I want to work with DevOps or DBA
 
 ##
 
